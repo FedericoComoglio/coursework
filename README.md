@@ -1,0 +1,13 @@
+# Coursework
+
+Selected courses in **mathematics**, **statistics** and **data science** from my doctoral and post-doctoral tenures are indicated in the table below. Only semester courses or courses of equivalent workload/duration are included.
+
+| <div style="width:200px">Course</div> | <div style="width:200px">Type</div> | <div style="width:300px">Content summary</div> |
+| :---         |     :---:      |          ---: |
+| **Multivariate Statistics**   | <div style="width:200px">Semester course [401-3626-00](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/sucheLehrangebot.view?seite=1&semkez=2013W&ansicht=2&lang=en&abschnittId=53462), ETH Zürich</div>     | <div style="width:300px">Classical and modern methods for multivariate statistical analysis (e.g. PCA, MDS, factor analysis, cluster analysis, graphical models)</div> |
+| **Linear Algebra**      | <div style="width:200px">Semester course [626-0011-00](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2015W&ansicht=KATALOGDATEN&lerneinheitId=101232&lang=en), ETH Zürich</div>     | <div style="width:300px">Theory and applications of linear algebra and linear programming with applications to systems biology</div> |
+| **Probabilistic Artificial Intelligence** | <div style="width:200px">Semester course [263-5210-00](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2019W&ansicht=ALLE&lerneinheitId=131935&lang=en), ETH Zürich</div>     | <div style="width:300px">Core modeling techniques and algorithms from statistics, optimization, planning and control (incl. Bayesian networks, probabilistic planning and reinforcement learning) with applications</div>
+| **Markov Chains: mixing times and applications** | <div style="width:200px">Semester course 401-3614-12, ETH Zürich</div> | <div style="width:300px">Discrete-time Markov Chains, basic properties of Markov Chains, mixing times, Markov Chain Monte Carlo (MCMC) methods and other sampling methods</div>
+| **Multilinear Algebra and applications** | <div style="width:200px">Semester course [401-0164-00](http://vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2018S&ansicht=LEHRVERANSTALTUNGEN&lerneinheitId=121258&lang=en), ETH Zürich</div> | <div style="width:300px">Multilinear forms, inner products, tensors, applications</div>
+| **Deep Learning** | <div style="width:200px">Specialization (5 courses) <br /> deeplearning.ai / Coursera <br />[certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/39R9WZDGJPVY) | <div style="width:300px">Neural networks and deep learning, training algorithms and optimization, convolutional neural networks and sequence models</div>
+
