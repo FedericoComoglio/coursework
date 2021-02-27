@@ -15,10 +15,10 @@ Selected courses in **mathematics**, **statistics** and **data science** from my
 | **Deep learning** | <div style="width:200px">Specialization (5 courses) <br /> deeplearning.ai / Coursera <br />[certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/39R9WZDGJPVY) | <div style="width:300px">Neural networks and deep learning, training algorithms and optimization, convolutional neural networks and sequence models</div>
 | **Applied data science with Python** | <div style="width:200px">Specialization (5 courses) <br /> deeplearning.ai / Coursera <br />[certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/K3PD85EQSDVZ) | <div style="width:300px"> Machine learning, plotting and data visualization, text analysis, social network analysis using python toolkits (e.g. pandas, matplotlib, scikit-learn, nltk, networkx) </div>
 | **SQL for data science** | <div style="width:200px">Coursera <br /> [certificate](https://www.coursera.org/account/accomplishments/certificate/VWJVULFCDTNX) | <div style="width:300px"> Fundamentals of SQL (with a focus on SQLite)
- </div>
+</div>
 
 <br>
-In addition, between 2018 and 2019 I completed 47 courses on DataCamp on topics such as data engineering, python programming, data wrangling, data visualization, machine learning, reproducibility and reporting. I also completed the [Statistician with R](https://www.datacamp.com/statement-of-accomplishment/track/9037a7e4ac2a05b42ea45f4245fac98850707e26) track (14 courses). However, I dropped DataCamp after the company showed an inadequate response to an internal harassment incident.
+In addition, between 2018 and 2019 I completed 47 courses on DataCamp on topics such as data engineering, python programming, data wrangling, data visualization, machine learning, reproducibility and reporting. I also completed the <a href="https://www.datacamp.com/statement-of-accomplishment/track/9037a7e4ac2a05b42ea45f4245fac98850707e26">Statistician with R</a> track (14 courses). However, I dropped DataCamp after the company showed an inadequate response to an internal harassment incident. 
 
 
 
