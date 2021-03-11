@@ -1,6 +1,6 @@
 # Coursework
 
-Selected courses in **mathematics**, **statistics** and **data science** from my doctoral and post-doctoral tenures are indicated in the table below. Only semester courses or courses of equivalent workload/duration are included.
+Selected courses in **mathematics**, **statistics** and **data science** I found particularly useful and well-structured are indicated in the table below. With a few exceptions, only semester courses (or equivalent workload) are indicated.
 
 | <div style="width:200px">Course</div> | <div style="width:200px">Type</div> | <div style="width:300px">Content summary</div> |
 | :---         |     :---:      |          ---: |
@@ -14,6 +14,7 @@ Selected courses in **mathematics**, **statistics** and **data science** from my
 | **Statistical learning** | EdX <br />[certificate](certificates/fc140408_sl_edx.pdf) | <div style="width:300px">Regression and classification methods, regularization, cross-validation and model selection, nonlinear models, random forests, boosting, SVM, unsupervised learning</div>
 | **Deep learning** | <div style="width:200px">Specialization (5 courses) <br /> deeplearning.ai / Coursera <br />[certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/39R9WZDGJPVY) | <div style="width:300px">Neural networks and deep learning, training algorithms and optimization, convolutional neural networks and sequence models</div>
 | **Applied data science with Python** | <div style="width:200px">Specialization (5 courses) <br /> deeplearning.ai / Coursera <br />[certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/K3PD85EQSDVZ) | <div style="width:300px"> Machine learning, plotting and data visualization, text analysis, social network analysis using python toolkits (e.g. pandas, matplotlib, scikit-learn, nltk, networkx) </div>
+| **Discrete mathematics** | Coursera <br />[certificate](https://www.coursera.org/account/accomplishments/certificate/CCWN3QTPKAUN) | <div style="width:300px"> Combinatorics, discrete probability, graphs and social networks </div>  
 | **SQL for data science** | <div style="width:200px">Coursera <br /> [certificate](https://www.coursera.org/account/accomplishments/certificate/VWJVULFCDTNX) | <div style="width:300px"> Fundamentals of SQL (with a focus on SQLite)
 </div>
 
